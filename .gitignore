@@ -16,6 +16,8 @@ lib64/
 parts/
 sdist/
 var/
+DOxygen/html
+DOxygen/latex
 *.egg-info/
 .installed.cfg
 *.egg
